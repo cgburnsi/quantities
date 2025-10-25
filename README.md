@@ -1,2 +1,2 @@
-# quantaties
+# quantities
 Updated Quantity Module
